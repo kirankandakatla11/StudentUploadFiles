@@ -1,0 +1,5 @@
+stu-101   kandakatla     kiran     civil     521
+stu-102   pulle          vamshi    mech      550
+stu-103   kench          ranjith   civil     520
+stu-104   kandakatla     venkat    civil     510
+
